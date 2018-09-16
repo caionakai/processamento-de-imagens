@@ -1,7 +1,7 @@
-# processamento-de-imagens
+# Processamento de imagens
 
 Atividades práticas realizadas na disciplina BCC36F - Processamento de Imagens na Universidade Tecnológica Federal do Paraná no 2º Semestre do ano de 2018. 
 
-Cada pasta contém um PDF com a descrição da atividade, um código .m (extensão do Octave) e uma ou mais imagens para realização da atividade. 
+Cada pasta contém um PDF com a descrição da atividade, um código .m (script Octave) e uma ou mais imagens para realização da atividade. 
 
 
