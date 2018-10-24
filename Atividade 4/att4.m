@@ -18,6 +18,7 @@ lol = padarray (HIHI_DOUBLE, [4 4],'replicate');
 
 
 # adiciona o filtro na imagem
+# esta linha está errada, pois não é o filtro que é dividido 
 y = filter2 (filtro, lol, 'valid')/81;
 
 # filtro de sobel
